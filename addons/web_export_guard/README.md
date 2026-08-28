@@ -47,8 +47,12 @@ The dock only checks the preset path and siblings on disk. After Godot finishes 
 - If you zip the folder, put the HTML at the zip root (or wherever your host says the start file must live).
 - Note the Godot version that produced this export so a later template mismatch is easier to spot.
 
+## Changelog
+
+- **0.1.1** — Fix Godot 4.4 typed GDScript load failure in `dock.gd` (`PackedStringArray` for sibling extensions).
+
 ## License
 
 MIT. Copyright 2026 Brandon Smith. See `LICENSE`.
 
-Researched, written, and packaged by an AI agent for Brandon Smith. Brandon is the seller of record.
+Plugin GDScript, documentation, and the store thumbnail/icon were created by AI.
