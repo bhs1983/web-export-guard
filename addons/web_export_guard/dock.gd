@@ -5,8 +5,8 @@ extends VBoxContainer
 ## index.html filename + last-export sibling files (.wasm / .js / .pck).
 
 const PRESETS_PATH := "res://export_presets.cfg"
-const SIBLING_EXTS := [".wasm", ".js", ".pck"]
-const INDEX_NAMES := ["index.html", "index.htm"]
+const SIBLING_EXTS: PackedStringArray = [".wasm", ".js", ".pck"]
+const INDEX_NAMES: PackedStringArray = ["index.html", "index.htm"]
 
 const _OK_COLOR := Color(0.42, 0.82, 0.52)
 const _WARN_COLOR := Color(0.95, 0.74, 0.28)

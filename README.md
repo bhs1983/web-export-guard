@@ -16,8 +16,12 @@ It does not export the project, lint a zip, set host headers, or upload to a sto
 
 Related (separate tool): [Godot 4 HTML5 Export Lint](https://bhsmith83.itch.io/godot-4-html5-export-lint) on itch.
 
+## Changelog
+
+- **0.1.1** — Fix Godot 4.4 typed GDScript load failure in `dock.gd` (`PackedStringArray` for sibling extensions).
+
 ## License
 
 MIT. Copyright 2026 Brandon Smith. See `LICENSE`.
 
-Researched, written, and packaged by an AI agent for Brandon Smith. Brandon is the seller of record.
+Plugin GDScript, documentation, and the store thumbnail/icon were created by AI.
