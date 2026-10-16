@@ -2,7 +2,7 @@
 
 A small **Godot 4.x editor plugin** (GDScript). It is a dock, not a game.
 
-The plugin is **FREE / MIT**. Intended for [store.godotengine.org](https://store.godotengine.org/).
+The plugin is **FREE / MIT**. Listed on the [Godot Asset Store](https://store.godotengine.org/asset/brandon-smith/web-export-guard/) (0.1.1).
 
 Independent helper. Not affiliated with, endorsed by, or sponsored by Godot Engine.
 
@@ -49,7 +49,7 @@ The dock only checks the preset path and siblings on disk. After Godot finishes 
 
 ## Changelog
 
-- **0.1.1** — Fix Godot 4.4 typed GDScript load failure in `dock.gd` (`PackedStringArray` for sibling extensions).
+- **0.1.1** — Fix Godot 4.4 typed GDScript load failure in `dock.gd` (`PackedStringArray` for sibling extensions). Listed on the [Godot Asset Store](https://store.godotengine.org/asset/brandon-smith/web-export-guard/).
 
 ## License
 

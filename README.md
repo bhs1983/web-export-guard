@@ -2,6 +2,8 @@
 
 Free MIT editor plugin for Godot 4.x. A dock, not a game.
 
+Listed on the [Godot Asset Store](https://store.godotengine.org/asset/brandon-smith/web-export-guard/) (0.1.1).
+
 After you set a Web export, it checks that the path is `index.html` (or `index.htm`) and that the last export’s `.wasm`, `.js`, and `.pck` siblings are on disk.
 
 ## Enable
@@ -18,7 +20,7 @@ Related (separate tool): [Godot 4 HTML5 Export Lint](https://bhsmith83.itch.io/g
 
 ## Changelog
 
-- **0.1.1** — Fix Godot 4.4 typed GDScript load failure in `dock.gd` (`PackedStringArray` for sibling extensions).
+- **0.1.1** — Fix Godot 4.4 typed GDScript load failure in `dock.gd` (`PackedStringArray` for sibling extensions). Listed on the [Godot Asset Store](https://store.godotengine.org/asset/brandon-smith/web-export-guard/).
 
 ## License
 
